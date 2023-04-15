@@ -78,6 +78,9 @@ a:hover {
   background: none;
   color: #ffffff;
 }
+.footer a:hover {
+  background: none;
+}
 .home {
   height: 100vh;
   background: url(../img/bg.jpg) no-repeat center / cover;
